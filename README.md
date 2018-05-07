@@ -3,20 +3,20 @@ Collection of useful links and tools in my ux process
 
 ## Summary 
 
-```
-1. [Communication](#comu)
-1. [Design tools](#design)
-1. [Documentation](#doc)
-1. [Front-End](#front)
-1. [Host](#host)
-1. [Inspiration](#insp)
-1. [Learn](#learn)
-1. [Management](#manag)
-1. [Reference](#ref)
-1. [SEO](#seo)
-1. [Stock](#stock)
-1. [User Experience](#ux)
-```
+
+- [Communication](#comu)
+- [Design tools](#design)
+- [Documentation](#doc)
+- [Front-End](#front)
+- [Host](#host)
+- [Inspiration](#insp)
+- [Learn](#learn)
+- [Management](#manag)
+- [Reference](#ref)
+- [SEO](#seo)
+- [Stock](#stock)
+- [User Experience](#ux)
+
 ---
 
 ### <a name=comu>Communication</a> 
