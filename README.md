@@ -7,16 +7,25 @@ Collection of useful links and tools in my ux process
 
 :black_small_square: [Design tools](#design)
 
-[Documentation](#doc)
-[Front-End](#front)
-[Host](#host)
-[Inspiration](#insp)
-[Learn](#learn)
-[Management](#manag)
-[Reference](#ref)
-[SEO](#seo)
-[Stock](#stock)
-[User Experience](#ux)
+:black_small_square: [Documentation](#doc)
+
+:black_small_square: [Front-End](#front)
+
+:black_small_square: [Host](#host)
+
+:black_small_square: [Inspiration](#insp)
+
+:black_small_square: [Learn](#learn)
+
+:black_small_square: [Management](#manag)
+
+:black_small_square: [Reference](#ref)
+
+:black_small_square: [SEO](#seo)
+
+:black_small_square: [Stock](#stock)
+
+:black_small_square: [User Experience](#ux)
 
 ---
 
