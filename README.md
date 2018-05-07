@@ -3,6 +3,7 @@ Collection of useful links and tools in my ux process
 
 ## Summary 
 
+```
 :black_small_square: [Communication](#comu)
 
 :black_small_square: [Design tools](#design)
@@ -26,7 +27,7 @@ Collection of useful links and tools in my ux process
 :black_small_square: [Stock](#stock)
 
 :black_small_square: [User Experience](#ux)
-
+```
 ---
 
 ### <a name=comu>Communication</a> 
