@@ -2,25 +2,31 @@
 Collection of useful links and tools in my ux process
 
 ## Summary 
-1. [Management](#management)
-1. [Communication]()
-1. [Inspiration]()
-1. [User Experience]()
-1. [Design]()
+1. [Management](#manag)
+1. [Communication](#comu)
+1. [Inspiration](#insp)
+1. [User Experience](#ux)
+1. [Design](#design)
+1. [Documentation](#doc)
 
-### <a name=manegement>Management</a> 
+### <a name=manag>Management</a> 
 - [Trello](https://trello.com/)
 
-### Communication 
+### <a name=comu>Communication</a> 
 - [Slack](https://slack.com/)
 - [Jetsi Meet](https://meet.jit.si/)
 
-### Inspiration
+### <a name=insp>Inspiration</a>
 - [Uplabs](https://www.uplabs.com/)
 
-### User Experience
+### <a name=ux>User Experience</a>
 - [UX Check](https://www.uxcheck.co/)
 
-### Design
+### <a name=design>Design</a>
 - [Colorable](http://jxnblk.com/colorable/demos/text/)
 - [Color Wheel (Adobe)](https://color.adobe.com/)
+
+### <a name=doc>Documentation</a>
+- [Paper](https://paper.dropbox.com)
+- [Milanote](https://app.milanote.com)
+- [Evernote](https://evernote.com)
