@@ -9,6 +9,7 @@ Collection of useful links and tools in my ux process
 1. [Design](#design)
 1. [Documentation](#doc)
 1. [Reference](#ref)
+1. [Stock](#stock)
 
 ---
 
@@ -24,6 +25,7 @@ Collection of useful links and tools in my ux process
 
 ### <a name=ux>User Experience</a>
 - [UX Check](https://www.uxcheck.co/)
+- [UX Recipe](http://uxrecipe.github.io/)
 
 ### <a name=design>Design</a>
 - [Colorable](http://jxnblk.com/colorable/demos/text/)
@@ -36,3 +38,6 @@ Collection of useful links and tools in my ux process
 
 ### <a name=ref>Reference</a>
 - [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+
+### <a name=stock>Stock</a>
+- [Pexels](https://www.pexels.com/)
