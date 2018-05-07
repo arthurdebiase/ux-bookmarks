@@ -8,6 +8,9 @@ Collection of useful links and tools in my ux process
 1. [User Experience](#ux)
 1. [Design](#design)
 1. [Documentation](#doc)
+1. [Reference](#ref)
+
+---
 
 ### <a name=manag>Management</a> 
 - [Trello](https://trello.com/)
@@ -30,3 +33,6 @@ Collection of useful links and tools in my ux process
 - [Paper](https://paper.dropbox.com)
 - [Milanote](https://app.milanote.com)
 - [Evernote](https://evernote.com)
+
+### <a name=ref>Reference</a>
+- [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
