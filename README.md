@@ -24,7 +24,9 @@ Collection of useful links and tools in my ux process
 ### <a name=design>Design tools</a>
 - [Colorable](http://jxnblk.com/colorable/demos/text/)
 - [Color Wheel](https://color.adobe.com/)
+- [Gradient Cards](https://gradients.cssgears.com/)
 - [Shape Shifter](https://shapeshifter.design/)
+
 
 ### <a name=doc>Documentation</a>
 - [Paper](https://paper.dropbox.com)
