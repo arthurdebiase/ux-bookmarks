@@ -1,22 +1,6 @@
 # User Experience Bookmarks
 Collection of useful links and tools in my ux process
 
-## Summary 
-
-
-- [Communication](#comu)
-- [Design tools](#design)
-- [Documentation](#doc)
-- [Front-End](#front)
-- [Host](#host)
-- [Inspiration](#insp)
-- [Learn](#learn)
-- [Management](#manag)
-- [Reference](#ref)
-- [SEO](#seo)
-- [Stock](#stock)
-- [User Experience](#ux)
-
 ---
 
 ### <a name=comu>Communication</a> 
