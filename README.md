@@ -1,8 +1,6 @@
 # User Experience Bookmarks
 Collection of useful links and tools in my ux process
 
----
-
 ### <a name=comu>Communication</a> 
 - [Slack](https://slack.com/)
 - [Jetsi Meet](https://meet.jit.si/)
