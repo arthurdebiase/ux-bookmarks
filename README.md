@@ -19,6 +19,7 @@ Collection of useful links and tools in my ux process
 
 ### <a name=front>Front-end</a>
 - [The Front-End Checklist](https://frontendchecklist.io/)
+- [Guia Flexbox](https://origamid.com/projetos/flexbox-guia-completo/)
 
 ### <a name=host>Host</a>
 - [Umbler](https://www.umbler.com/)
