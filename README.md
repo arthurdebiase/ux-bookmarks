@@ -25,7 +25,7 @@ Collection of useful links and tools in my ux process
 - [Umbler](https://www.umbler.com/)
 
 ### <a name=insp>Inspiration</a>
-= [Bestfolios](http://bestfolios.com/home)
+- [Bestfolios](http://bestfolios.com/home)
 - [Uplabs](https://www.uplabs.com/)
 
 ### <a name=learn>Learn</a>
