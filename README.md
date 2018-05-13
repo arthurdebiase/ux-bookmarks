@@ -25,11 +25,14 @@ Collection of useful links and tools in my ux process
 - [Umbler](https://www.umbler.com/)
 
 ### <a name=insp>Inspiration</a>
+= [Bestfolios](http://bestfolios.com/home)
 - [Uplabs](https://www.uplabs.com/)
 
 ### <a name=learn>Learn</a>
 - [DesignBetter.Co](https://www.designbetter.co/)
+- [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [Laws of UX](https://lawsofux.com/)
+
 
 ### <a name=manag>Management</a> 
 - [Trello](https://trello.com/)
@@ -41,7 +44,9 @@ Collection of useful links and tools in my ux process
 - [Yellow Lab Tools](https://yellowlab.tools/)
 
 ### <a name=stock>Stock</a>
+- [Nappy](https://www.nappy.co/)
 - [Pexels](https://www.pexels.com/)
+
 
 ### <a name=ux>User Experience</a>
 - [UX Check](https://www.uxcheck.co/)
