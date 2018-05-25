@@ -10,6 +10,7 @@ Collection of useful links and tools in my ux process
 - [Color Wheel](https://color.adobe.com/)
 - [Gradient Cards](https://gradients.cssgears.com/)
 - [Shape Shifter](https://shapeshifter.design/)
+- [SVGator](https://app.svgator.com/)
 
 
 ### <a name=doc>Documentation</a>
