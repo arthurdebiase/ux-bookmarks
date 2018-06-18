@@ -9,9 +9,10 @@ Collection of useful links and tools in my ux process
 - [Colorable](http://jxnblk.com/colorable/demos/text/)
 - [Color Wheel](https://color.adobe.com/)
 - [Gradient Cards](https://gradients.cssgears.com/)
+- [Lists](https://www.lists.design/)
+- [Photopea](https://www.photopea.com/)
 - [Shape Shifter](https://shapeshifter.design/)
 - [SVGator](https://app.svgator.com/)
-- [Lists](https://www.lists.design/)
 
 
 ### <a name=doc>Documentation</a>
@@ -32,6 +33,7 @@ Collection of useful links and tools in my ux process
 
 ### <a name=learn>Learn</a>
 - [DesignBetter.Co](https://www.designbetter.co/)
+- [Design Kit](http://www.designkit.org/)
 - [Front-End Developer Handbook 2018](https://frontendmasters.com/books/front-end-handbook/2018/)
 - [Laws of UX](https://lawsofux.com/)
 
