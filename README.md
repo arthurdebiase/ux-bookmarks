@@ -43,6 +43,7 @@ Collection of useful links and tools in my ux process
 
 ### <a name=ref>Reference</a>
 - [Emoji](https://www.webpagefx.com/tools/emoji-cheat-sheet/)
+- [Really Good Emails](https://reallygoodemails.com/)
 
 ### <a name=seo>SEO</a>
 - [Yellow Lab Tools](https://yellowlab.tools/)
