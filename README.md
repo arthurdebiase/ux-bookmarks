@@ -50,8 +50,9 @@ Collection of useful links and tools in my ux process
 - [Yellow Lab Tools](https://yellowlab.tools/)
 
 ### <a name=stock>Stock</a>
-- [Nappy](https://www.nappy.co/)
-- [Pexels](https://www.pexels.com/)
+- [Feather - Icons] (https://feathericons.com/)
+- [Nappy - Photos](https://www.nappy.co/)
+- [Pexels - Photos](https://www.pexels.com/)
 
 
 ### <a name=ux>User Experience</a>
