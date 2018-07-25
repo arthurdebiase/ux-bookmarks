@@ -54,6 +54,7 @@ Collection of useful links and tools in my ux process
 ### <a name=stock>Stock</a>
 - [Coverr - Videos](http://www.coverr.co/)
 - [Feather - Icons](https://feathericons.com/)
+- [Ionicons - Icons](https://ionicons.com/)
 - [Nappy - Photos](https://www.nappy.co/)
 - [Pexels - Photos](https://www.pexels.com/)
 
