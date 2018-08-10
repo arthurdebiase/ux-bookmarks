@@ -16,6 +16,10 @@ Collection of useful links and tools in my ux process
 - [Shape Shifter](https://shapeshifter.design/)
 - [SVGator](https://app.svgator.com/)
 
+### <a name=dev>Development</a>
+- [Supernova](https://supernova.io/)
+- [Webflow](https://webflow.com/)
+
 
 ### <a name=doc>Documentation</a>
 - [Flowmapp](https://app.flowmapp.com/)
