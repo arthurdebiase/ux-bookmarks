@@ -37,6 +37,7 @@ Collection of useful links and tools in my ux process
 ### <a name=insp>Inspiration</a>
 - [Bestfolios](http://bestfolios.com/home)
 - [Uplabs](https://www.uplabs.com/)
+- [Really Good Emails](https://reallygoodemails.com/)
 
 ### <a name=learn>Learn</a>
 - [DesignBetter.Co](https://www.designbetter.co/)
@@ -62,6 +63,9 @@ Collection of useful links and tools in my ux process
 - [Ionicons - Icons](https://ionicons.com/)
 - [Nappy - Photos](https://www.nappy.co/)
 - [Pexels - Photos](https://www.pexels.com/)
+
+### <a name=tools>Tools</a>
+- [Shrink Me](https://shrinkme.app)
 
 
 ### <a name=ux>User Experience</a>
