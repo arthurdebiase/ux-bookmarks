@@ -65,6 +65,8 @@ Collection of useful links and tools in my ux process
 - [Moose - Photos](https://photos.icons8.com/)
 - [Nappy - Photos](https://www.nappy.co/)
 - [Pexels - Photos](https://www.pexels.com/)
+- [Lstore - Graphics](https://free.lstore.graphics/)
+- [UI Kingdom - Graphics ](https://www.uikingdom.xyz/)
 
 ### <a name=tools>Tools</a>
 - [Shrink Me](https://shrinkme.app)
