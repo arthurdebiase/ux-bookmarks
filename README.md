@@ -62,6 +62,7 @@ Collection of useful links and tools in my ux process
 - [Coverr - Videos](http://www.coverr.co/)
 - [Feather - Icons](https://feathericons.com/)
 - [Ionicons - Icons](https://ionicons.com/)
+- [Moose](https://photos.icons8.com/)
 - [Nappy - Photos](https://www.nappy.co/)
 - [Pexels - Photos](https://www.pexels.com/)
 
