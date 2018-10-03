@@ -20,7 +20,7 @@ Collection of useful links and tools in my ux process
 ### <a name=dev>Development</a>
 - [Supernova](https://supernova.io/)
 - [Webflow](https://webflow.com/)
-
+- [GrapeJS](https://grapesjs.com/)
 
 ### <a name=doc>Documentation</a>
 - [Flowmapp](https://app.flowmapp.com/)
@@ -47,7 +47,6 @@ Collection of useful links and tools in my ux process
 - [Laws of UX](https://lawsofux.com/)
 - [Lapabooks](https://www.lapabooks.com/)
 
-
 ### <a name=manag>Management</a> 
 - [Trello](https://trello.com/)
 
@@ -71,14 +70,15 @@ Collection of useful links and tools in my ux process
 ### <a name=tools>Tools</a>
 - [Shrink Me](https://shrinkme.app)
 
-
 ### <a name=ux>User Experience</a>
 - [UX Check](https://www.uxcheck.co/)
 - [UX Recipe](http://uxrecipe.github.io/)
 - [UX Checklist](http://uxchecklist.github.io/)
 - [Talebook](https://talebook.io/)
 
-
+### <a name=news>Newsletter</a>
+- [Postcards](https://designmodo.com/postcards/)
+- [Paperplane](http://paperpaperplane.com/)
 
 
 
