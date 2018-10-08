@@ -82,7 +82,7 @@ Collection of useful links and tools in my ux process
 - [Postcards](https://designmodo.com/postcards/)
 - [Paperplane](http://paperpaperplane.com/)
 
-### <a name=bests>Bests sites</a>
+### <a name=best>Best sites</a>
 - [Portal from Facebook](https://portal.facebook.com/)
 
 
