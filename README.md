@@ -16,6 +16,7 @@ Collection of useful links and tools in my ux process
 - [Photopea](https://www.photopea.com/)
 - [Shape Shifter](https://shapeshifter.design/)
 - [SVGator](https://app.svgator.com/)
+- [Favicon Checker](http://www.colinkeany.com/favicon-checker/)
 
 ### <a name=dev>Development</a>
 - [Supernova](https://supernova.io/)
